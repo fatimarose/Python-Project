@@ -81,7 +81,7 @@ def average_sales_2():
 #average_sales_2()
 
 
-#SHOULD calculate the months with the highes and lowest sales
+#SHOULD calculate the months with the highest and lowest sales
 def max_min_sales_1():
     data = read_data()
 
